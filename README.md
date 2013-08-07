@@ -3,15 +3,22 @@ website
 
 This repository hosts the Web page for the University of Maryland Libraries Coding Workshop.
 
-Live pages are found in the gh-pages branch.
+We will be using the repository's wiki as the Web site.
 
-index.html is the home page
+The home page is published at https://github.com/umd-coding-workshop/website/wiki 
 
-The home page is published at http://umd-coding-workshop.github.io/website/
+You can also get to the wiki by clicking on the wiki link in the right side navigation bar.
 
-You can edit using markdown by going to Settings -> Automatic Page Generator. You can also change the template there. **But** you will lose any changes you have made to the HTML so be careful. Or don't do that. Or save a copy of the HTML to put back when you're done.
+Edit the wiki by going to a page and clicking edit. 
 
-More pages can be added as needed in the gh-pages branch.
+Edit the wiki's sidebar by first editing any page--the box for editing the sidebar should appear below the editing box for the main content.
+
+Files that make the wiki strangely don't show up as a Github repository, but they're there. You can see them by going to the wiki, clicking Clone URL, and using that URL to clone a local repository. Or maybe I'm missing something.
+-------
+
+The Web site for the group was originally set us as HTML pages using Github pages. That version of the Web site is stored in the gh-pages branch.
+
+That Web site lives at http://umd-coding-workshop.github.io/website. It now redirects to the wiki.
 
 For more on publishing pages using Github see http://pages.github.com/
 
