@@ -11,7 +11,7 @@ You can also get to the wiki by clicking on the wiki link in the right side navi
 
 Edit the wiki by going to a page and clicking edit. 
 
-Use markdown for editing wiki pages. Here is a handy [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-lists)
+Use markdown for editing wiki pages. Here is a handy [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Edit the wiki's sidebar by first editing any page--the box for editing the sidebar should appear below the editing box for the main content.
 
