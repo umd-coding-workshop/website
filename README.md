@@ -26,15 +26,16 @@ For more on publishing pages using Github see http://pages.github.com/
 Running Meetings
 ===================================
 
-Schedule a meeting in Outlook Calendar. McKeldin 6107 is the usual spot. 6103 works too. For discussion and no hands-on work we've also used DSS conference room.
+Schedule a meeting in Outlook Calendar. McKeldin 6107 is the usual spot. 6103 works too. For discussion and no hands-on work we've also used the DSS conference room (B0228), and the staff training room (7121).
 
 For remote attendance, schedule a meeting in Adobe Connect. [http://webmeeting.umd.edu]{http://webmeeting.umd.edu)
 
 To set up the room:
+
 1. Open the room. For McK 61xx rooms get door codes from User Education Services.
 2. Follow directions in the room for starting the Crestron projector, etc.
 3. Start the Adobe Meeting. 
-4. In Adobe Connect, go to Meeting->Audio Setup Wizard
+4. In Adobe Connect, go to Meeting -> Audio Setup Wizard
 5. TBC
 
 
