@@ -1,6 +1,8 @@
 website
 =============================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/umd-coding-workshop/website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository hosts the Web page for the University of Maryland Libraries Coding Workshop.
 
 We will be using the repository's wiki as the Web site.
