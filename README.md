@@ -30,7 +30,7 @@ Running Meetings
 
 Schedule a meeting in Outlook Calendar. McKeldin 6107 is the usual spot. 6103 works too. For discussion and no hands-on work we've also used the DSS conference room (B0228), and the staff training room (7121).
 
-For remote attendance, schedule a meeting in Adobe Connect. [http://webmeeting.umd.edu]{http://webmeeting.umd.edu)
+For remote attendance, schedule a meeting in Adobe Connect. [http://webmeeting.umd.edu](http://webmeeting.umd.edu)
 
 To set up the room:
 
